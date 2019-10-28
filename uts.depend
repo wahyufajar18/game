@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571391348 source:g:\semester 5\uts\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<time.h>
+
+1572275032 source:e:\semester 5\uts\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<time.h>
+
